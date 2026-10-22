@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+/* Your CSS Code here. */
+div {
+  margin: 10px 0;
+  padding: 5px;
+  border: 1px dashed #ccc;
+}
